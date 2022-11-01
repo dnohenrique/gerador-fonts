@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="_034-printer" width="19.707" height="19.707" data-name="034-printer" viewBox="0 0 19.707 19.707">
+    <defs>
+        <style>
+            .cls-1{fill:#535252}
+        </style>
+    </defs>
+    <g id="Grupo_477" data-name="Grupo 477">
+        <g id="Grupo_476" data-name="Grupo 476">
+            <path id="Caminho_245" d="M18.552 5.873V5.2a1.734 1.734 0 0 0-1.732-1.736h-.577a1.739 1.739 0 0 0-.507-1.324L14.1.507A1.721 1.721 0 0 0 12.878 0H4.041a.577.577 0 0 0-.577.577v2.887h-.577A1.734 1.734 0 0 0 1.155 5.2v.677A1.735 1.735 0 0 0 0 7.506v5.851a1.734 1.734 0 0 0 1.732 1.732h1.732v4.041a.577.577 0 0 0 .577.577h11.625a.577.577 0 0 0 .577-.577v-4.042h1.732a1.734 1.734 0 0 0 1.732-1.732v-5.85a1.735 1.735 0 0 0-1.155-1.633zm-2.309-1.254h.577a.578.578 0 0 1 .58.581v.577h-1.157zm-3.464-3.464a.63.63 0 0 1 .507.169l1.633 1.633a.63.63 0 0 1 .169.507h-2.309zm-8.16 0h7.005v2.886a.577.577 0 0 0 .577.577h2.887v1.156H4.619zM2.309 5.2a.578.578 0 0 1 .577-.577h.577v1.151H2.309zm12.779 13.352H4.619v-5.773h10.469zm3.464-5.2a.578.578 0 0 1-.577.577h-1.732v-1.15h.577a.577.577 0 1 0 0-1.155H2.887a.577.577 0 0 0 0 1.155h.577v1.155H1.732a.578.578 0 0 1-.577-.577V7.506a.578.578 0 0 1 .577-.577h16.243a.578.578 0 0 1 .577.577z" class="cls-1" data-name="Caminho 245"/>
+        </g>
+    </g>
+    <g id="Grupo_479" data-name="Grupo 479" transform="translate(2.309 8.083)">
+        <g id="Grupo_478" data-name="Grupo 478">
+            <path id="Caminho_246" d="M62.887 210h-2.31a.577.577 0 0 0 0 1.155h2.309a.577.577 0 0 0 0-1.155z" class="cls-1" data-name="Caminho 246" transform="translate(-60 -210)"/>
+        </g>
+    </g>
+    <g id="Grupo_481" data-name="Grupo 481" transform="translate(5.774 13.934)">
+        <g id="Grupo_480" data-name="Grupo 480">
+            <path id="Caminho_247" d="M157.583 362h-7.005a.577.577 0 1 0 0 1.155h7.005a.577.577 0 0 0 0-1.155z" class="cls-1" data-name="Caminho 247" transform="translate(-150 -362)"/>
+        </g>
+    </g>
+    <g id="Grupo_483" data-name="Grupo 483" transform="translate(5.774 16.243)">
+        <g id="Grupo_482" data-name="Grupo 482">
+            <path id="Caminho_248" d="M157.583 422h-7.005a.577.577 0 1 0 0 1.155h7.005a.577.577 0 0 0 0-1.155z" class="cls-1" data-name="Caminho 248" transform="translate(-150 -422)"/>
+        </g>
+    </g>
+</svg>
